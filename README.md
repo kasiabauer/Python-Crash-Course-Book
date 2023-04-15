@@ -1,6 +1,6 @@
 Python Crash Course - Second Edition
 ===
-
+Bauer
 A Hands-On, Project-Based Introduction to Programming
 ---
 
