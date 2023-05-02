@@ -14,6 +14,7 @@ print(f'Gracz uzyskał {points} punktów.')
 
 # alien version 3 - failed
 if alien_color == 'czerwony':
-    alien_points = 10
-print(f'Gracz uzyskał {alien_points} punktów.')
+    print(f'Gracz uzyskał 10 punktów.')
+
+
 
